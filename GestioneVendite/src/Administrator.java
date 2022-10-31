@@ -2,7 +2,7 @@
 public class Administrator extends Impiegato{
 	private int clientId, purchId;
 	private String username = "mario", password = "gigino";
-	//FEATURESh
+	//FEATUREShg
 	public void showFeatures() {
 		super.showFeatures();
 		System.out.println("9)DELETE A CLIENT'S PURCHASE"

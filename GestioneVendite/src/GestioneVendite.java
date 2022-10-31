@@ -6,7 +6,7 @@ public class GestioneVendite {
 		Scanner scan = new Scanner(System.in);
 		int us, choice=10;
 		//boolean end=false;
-		//int clientId=0, indexId=0;s
+		//int clientId=0, indexId=0;sg
 		System.out.println("APPLICATION FOR SELLING MANAGMENT"
 						+ "VERSION 2.0");
 		
