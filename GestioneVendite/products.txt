@@ -1,0 +1,4 @@
+jeans 10
+camicia 12
+mocassini 4
+pullover 15
