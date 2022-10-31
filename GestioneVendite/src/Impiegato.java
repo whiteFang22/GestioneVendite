@@ -5,7 +5,7 @@ import java.util.Scanner;
 
 public class Impiegato {
 	
-	//RECORD
+	//RECORDs
 	//public record Purchase(String name, String supplier, double price, String data, int identifier) {}
 	//public record Client(String name,String surname, String fisCode, String addres, LinkedList<Purchase> purch, int identifier) {}
 	

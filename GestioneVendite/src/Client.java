@@ -5,7 +5,7 @@ public class Client {
 	private LinkedList<Purchase> purchases = new LinkedList<Purchase>();; 
 	private int clientIdentifier;
 	//private int clientNumber=0;
-	//private int purchaseNumber=0;
+	//private int purchaseNumber=0;h
 	
 	//COSTRUTTORE
 	public Client(String n, String s, String f,String a,int id) {
